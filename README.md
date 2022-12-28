@@ -75,7 +75,7 @@ https://simpleicons.org/
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="300px" height="240px" src="https://miro.medium.com/max/640/1*i_Q34RRfcGUsniN6RIxnuQ.gif" /><img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="300px" height="240px" src="https://miro.medium.com/max/1152/1*d4zkPDg9EmViFVWR1YwBtg.gif" /><img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="300px" height="240px" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/image-1.gif" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="290px" height="240px" src="https://miro.medium.com/max/640/1*i_Q34RRfcGUsniN6RIxnuQ.gif" /><img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="290px" height="240px" src="https://miro.medium.com/max/1152/1*d4zkPDg9EmViFVWR1YwBtg.gif" /><img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="290px" height="240px" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/image-1.gif" />
 </p>
 
 <!---
