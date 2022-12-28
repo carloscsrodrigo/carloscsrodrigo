@@ -7,12 +7,7 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to reach out to by mail or linkedin, just click on icon below...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-<br>
-<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Carlos%20C.Silva-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/carloscsrodrigo/)
-[![Mail](https://img.shields.io/badge/Gmail-carloscsrodrigo@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=black)](mailto:carloscsrodrigo@gmail.com)
-<br>
+
 
 <h2 align='center'><samp><strong>Hi there 👋, I am Carlos. </strong></samp></h2>
 
@@ -24,17 +19,24 @@ https://simpleicons.org/
 
 💻 **Languages and Tools:** 🛠️<br>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-000000?style=flat&logo=Jupyter&logoColor=orange&labelColor=gray)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/Git-E34F26?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepad%2b%2b&logoColor=black)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![Vizio](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badgee&logo=microsoft-visio&logoColor=white)
+![SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=flat&logo=microsoft-sharepoint&logoColor=white)
+![Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat&logo=microsoft-access&logoColor=white)
 
 🧐 **Knowledge of:**<br>
 
@@ -49,20 +51,23 @@ https://simpleicons.org/
 -->
 
 🚩 **Highlights:** <br>
-<span>Internal companie project: Smart House Lab </span>
+<span>Internal Companie Project: **Smart House Lab**, Data collect, analysis and then implementation of the Smart House Lab with the purpose of approving the compatibility of new technologies in consoles, connection with IOT devices (Internet of things) and TV 3.0 technology, in relation to new LG products. In partnership with companies such as: CLARO NET, VIVO, SKY Brasil and Rede Amazônica (Globo, the largest television network in Brazil), reaching a success rate of up to 78% of reduction of customer dissatisfaction;. </span>
 
 
 🤓 **Interested:** <br>
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-
-
+📝 **Feel free to reach out to by mail or linkedin, just click on icon below...** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<br>
+<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Carlos%20C.Silva-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/carloscsrodrigo/)
+[![Mail](https://img.shields.io/badge/Gmail-carloscsrodrigo@gmail.com-blue?logo=Gmail&logoColor=red&labelColor=black)](mailto:carloscsrodrigo@gmail.com)
+<br>
 
 <!-- ✅  **GitHub Extra Pins**
 
@@ -70,7 +75,7 @@ https://simpleicons.org/
 
 </br>
 <p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif" />
+<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/640/1*i_Q34RRfcGUsniN6RIxnuQ.gif" /><img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://miro.medium.com/max/1152/1*d4zkPDg9EmViFVWR1YwBtg.gif" /><img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="320px" height="240px" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/04/image-1.gif" />
 </p>
 
 <!---
